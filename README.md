@@ -1,8 +1,8 @@
 # Get the most reposts and likes on make.fun's newest X posts
 
 [![make.fun](https://make.fun/badge/makefun-x-reposts-02.svg)](https://make.fun/bounty/makefun-x-reposts-02)
-[![make.fun entry](https://make.fun/badge/makefun-x-reposts-02/entry.svg)](https://make.fun/bounty/makefun-x-reposts-02)
-[![make.fun score](https://make.fun/badge/makefun-x-reposts-02/score.svg)](https://make.fun/bounty/makefun-x-reposts-02)
+[![make.fun entry](https://make.fun/badge/makefun-x-reposts-02/backburner036-prog/x-reposts-02-20261126/rank.svg)](https://make.fun/bounty/makefun-x-reposts-02)
+[![make.fun score](https://make.fun/badge/makefun-x-reposts-02/backburner036-prog/x-reposts-02-20261126/reward.svg)](https://make.fun/bounty/makefun-x-reposts-02)
 
 Entry for the [make.fun bounty **makefun-x-reposts-02**](https://make.fun/bounty/makefun-x-reposts-02)
 ($500, top 50, deadline 28 Nov 2026 14:30 WIB).
